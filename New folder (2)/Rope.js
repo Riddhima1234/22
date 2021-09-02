@@ -25,6 +25,6 @@ class rope {
              strokeWeight(3);
              stroke("white");
 
-            Line(positionA,positionB.positionC,positionD)
+            Line(positionA,positionB,positionC,positionD)
         }
      }
